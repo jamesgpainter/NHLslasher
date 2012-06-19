@@ -207,7 +207,7 @@ int main()
 	printf("\n\n===================================");
 	printf(  "\nNHL Slasher");
 	printf(  "\nHacking Utility for EA Sports NHL94");
-	printf(  "\nCreated by James Painter");
+	printf(  "\nWritten by James Painter");
 	printf(  "\n===================================");
 
 	printf("\n\nEnter ROM file name: ");
