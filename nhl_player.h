@@ -3,6 +3,7 @@
 
 #include <string>
 #include <fstream>
+#include <cmath>
 using namespace std;
 
 class nhl_player

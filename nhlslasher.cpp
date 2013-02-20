@@ -1,6 +1,7 @@
 #include <string>
 #include <iostream>
 #include <fstream>
+#include <cmath>
 #include "nhl_player.h"
 #include "nhl_team.h"
 #include "nhl_league.h"
@@ -210,7 +211,7 @@ int main()
 	printf(  "\nWritten by James Painter");
 	printf(  "\n===================================");
 
-	printf("\n\nEnter ROM file name: ");
+	printf("\n\nEnter ROM file name (e.g., nhl94.bin): ");
 	cin >> strFilename;
 
 	do {
